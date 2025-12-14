@@ -20,17 +20,23 @@ To run this project locally on your machine:
     git clone https://github.com/kachiliquingal/practice_simple_user_management_REACT.git
     ```
 
-2.  **Install dependencies:**
+2.  **Enter the project directory:**
+    ```bash
+    cd practice_simple_user_management_REACT
+    ```
+
+3.  **Install dependencies:**
+    It is crucial to install the packages inside the project folder.
     ```bash
     npm install
     ```
 
-3.  **Run the development server:**
+4.  **Run the development server:**
     ```bash
     npm run dev
     ```
 
-4.  **Open in browser:**
+5.  **Open in browser:**
     Go to `http://localhost:5173/`
 
 ## Project Structure
